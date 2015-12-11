@@ -3,7 +3,7 @@
 
 # ```EXAMPLE:
 # Input: 3 (e.g., 3 pairs of parentheses)
-# Output: ()()(), ()(()), (())(), ((()))
+# Output: ()()(), ()(()), (())(), ((()))()
 
 
 def printbrackets(p, i):
